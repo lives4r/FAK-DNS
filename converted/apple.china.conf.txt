@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/itunes.apple.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/itunesconnect.apple.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/mensura.cdn-apple.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mesu-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mesu-china.apple.com.akadns.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mesu.apple.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
