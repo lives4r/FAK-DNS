@@ -769,7 +769,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/04adca98c1022.beer/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/04c01e0ad4c891d7.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/04db11e1ea504cf2.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/04ip.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/04l68n18142.xin/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/04n1ns24180.xin/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/04vfkt24311.xin/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -6586,7 +6585,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/5858xs.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/58620888.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/5866.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/5867yh.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/586jz.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/587.cc/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/58738.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -7871,7 +7869,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/7755330.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/7755360.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/7756.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/7759.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/776577.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/7766.info/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/7766.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -9180,7 +9177,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/93land.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/93lh.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/93njf0.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/93pk.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/93sdk.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/93sem.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/93soso.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -9421,7 +9417,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/97971166.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/97972209.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/97973.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/97973309.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/97975508.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/97976608.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/9797ly.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -10155,7 +10150,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/acelamicro.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/aceoo.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/acepanel.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/acesheep.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/acetace.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/acetar.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/acewill.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -10234,7 +10228,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/actbbs.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/actcn.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/acthao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/acthd123.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/actime.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/actions-semi.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/actionsky.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -12619,7 +12612,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/aoyu100.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/aoyuanlives.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/aoyunque.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/aozare-acemak.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/aozare-avernai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/aozhanls.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ap-china.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -15758,7 +15750,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/bhybskq.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bhyby.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bhyintan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/bhyueda.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bhzck.club/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bhzck.xyz/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bhzdzx.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -16169,7 +16160,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/biotech-meds.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/biotechina.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/biotechwell.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/biothink.tech/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bioustar.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/biovector.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/biovip.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -16534,7 +16524,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/bjgree.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bjgujibaohu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bjgumu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/bjguodu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bjgvpn.amd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bjgvpn2.amd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bjgxs.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -18121,7 +18110,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/by6sx.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/by899.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/byai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/bybanking.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bybieyang.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/bybily.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/byboai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -27839,7 +27827,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/dayanyanglao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dayanzai.me/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dayapress.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/dayayu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dayclover.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/daydao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dayday.plus/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -29381,6 +29368,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/djmillison.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/djserver.center/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/djsh5.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/djsnm.app/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/djstechpc.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/djstg.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/djtpf.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -30289,7 +30277,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/dplord.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dplslab.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dpma.cc/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/dpn.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dpqct.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dps.djiservice.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/dptech.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -37657,7 +37644,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/gexingshuo.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gexingzipai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gexiong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/gexiuyixibai.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/geyawatch.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/geyevalve.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/geyifudi.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -41223,7 +41209,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/gxsdpx.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gxsdy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gxseal.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/gxsejy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gxsenge.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gxsenzhou.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gxsfcm.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -41944,7 +41929,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/gzcsjg.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gzculture.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gzcxhd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/gzcxlm.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gzcycling.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gzczjd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/gzdahyxh.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -42927,7 +42911,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/handsfree.work/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/handu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/handuyishe.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/handyfriendship.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanergy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanex.cc/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanfakg.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -42992,7 +42975,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/hangzhouweifeng.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hangzhouyiyao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hangzhouyq.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/hangzhouzehe.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanhai.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanhe-cable.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hanhongchina.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -43498,7 +43480,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/hareonsolar.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hariogame.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/harj120.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/harleyydavidsale.shop/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/harmay.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/harmight.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/harmony-et.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -48111,7 +48092,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/hundredcent.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hundsun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hundun.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/hundx.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hunger-valley.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hungfei.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/hungsh.store/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -50029,7 +50009,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ifanbei.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ifangarden.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ifangka.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ifanpu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ifanr.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ifanr.in/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ifanrcloud.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -51253,7 +51232,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ipeijiu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ipengchen.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ipengtai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/iper2.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ipetct.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ipexp.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ipfeibiao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -54631,7 +54609,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/jlwlw.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/jlxc2001.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/jlxfw.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/jlxhr.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/jlxhyy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/jlxtxny.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/jlylwater.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -56771,7 +56748,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/kagirl.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kah8.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kahaozhushou.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/kahha.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kahuodong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kai-lun.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kai-ying.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -57452,7 +57428,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/kenweini.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kenxon.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kenzochina.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/keoaeic.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/keovo.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/kepusky.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/keputech.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -60670,7 +60645,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/liezhun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/lif8.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/lifan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/life-2028sport.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/lifebook.red/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/lifediary.shop/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/lifeeu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -62501,7 +62475,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/luohuedu.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/luojiaci.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/luojiadeyi.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/luojiji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/luojilab.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/luojiweiye.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/luokuang.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -65269,7 +65242,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/mindcherish.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mindcontroles.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mindechem.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/mindlabpros.site/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mindmanagerchina.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mindmapper.cc/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mindmm.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -65467,7 +65439,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/minz.press/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/minzu56.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/mionexmailerc2.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/mionexmailero1.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/miooku.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/miospay.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/miot-spec.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -65948,7 +65919,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/moehui.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/moeid.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/moejp.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/moeking.me/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/moeli123.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/moemiao.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/moerlong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -66096,6 +66066,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/mono.work/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/monolink.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/monph.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/monsterhunteroutlanders.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/monsterlin.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/montage-tech.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/monternet.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -69167,7 +69138,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/nnkailong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nnkcy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nnkeerlab.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/nnkeruan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nnkeyuan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nnkhjq.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nnkin.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -69726,7 +69696,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/nuedcchina.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nufans.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nug08011lu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/nug08031lu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nuhcpf.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nuhighbio.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/nuist.pro/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -70190,7 +70159,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ok096.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ok123.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ok126.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ok1616.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ok165.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ok168.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ok183.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -72122,7 +72090,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/pinfun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ping-an.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ping-jia.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ping-qu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ping.ubnt.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ping99.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/pingan.com.hk/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -75201,7 +75168,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/quanjing.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quanjingke.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quanjinglian.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/quanjunkeji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quankexia.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quanlaoda.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quanlego.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -75655,7 +75621,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/qutingting.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/qutoutiao.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/qutu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/qutuancan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/qutuiwa.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/qutuly.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/quumii.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -76555,7 +76520,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/renrendoc.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/renrenfinance.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/renrening.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/renrenlun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/renrenmoney.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/renrenpeizhen.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/renrenshe.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -77528,7 +77492,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ruokuai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ruonei.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ruons.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ruoren.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ruoshui.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ruosoft.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ruoxia.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -83483,6 +83446,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/soukuyou.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/soulapp.me/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/soulgame.mobi/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/soulharbor.work/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/soulsky.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/soulu365.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/souluo.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -86292,7 +86256,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/szyyx.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/szyzsy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/szzbmy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/szzesee.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/szzgst.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/szzh365.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/szzhangchu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -86977,6 +86940,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/tcdnos.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tcdnos.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tcdns31.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/tcdns74.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tcdntip.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tcdnv3.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tcdnvod.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -87098,7 +87062,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/tdatamaster.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tdataspace.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tdbbj.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/tdchats.us/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tddmp.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tdfsm.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tdgdy.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -87346,7 +87309,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/tenbilliongame.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tencdns.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tencdns.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/tencenst.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tencent-blackboard.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tencent-cloud.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tencent-cloud.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -90227,6 +90189,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/tuputech.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tuqiangcn.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tuqou.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/tuquge.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/tuquu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/turangyq.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/turboes.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -90504,7 +90467,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/txzuranji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ty-archdesign.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ty-group.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ty-im.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ty-job.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ty-magnet.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ty-space.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -91392,7 +91354,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/upupoo.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/upupview.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/upupw.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/upvixusa.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/upvr.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/upwater.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/upx8.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -91705,7 +91666,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/v.to/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v007.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v0719.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/v11-360.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v114.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v15cdn.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v15i.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -91750,7 +91710,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/v6lvs.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v6ok.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v78q.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/v814.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v84tz11w7.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v8gb.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/v977.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -95313,7 +95272,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/wireless-tag.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/wirelesschina-summit.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/wiremesh001.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/wiremeshforfilter.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/wirlesshare.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/wis-park.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/wisbiom.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -97162,7 +97120,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xakrlab.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xalanq.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xalawyer.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xalhar.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xalyd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xamama.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xaminim.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -97508,7 +97465,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xeeok.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xefan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xege.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xegnfwkju.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xegymyb.xyz/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xehedu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xeknow.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -97745,7 +97701,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xhup.club/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xhw520.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xhwater.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xhwcdasha.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xhwhouse.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xhwx100.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xhwyzsd.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -98031,7 +97986,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xiaocaoyun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiaoce.fun/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiaocen.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xiaochamao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiaoche001.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiaochenbaoku.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiaocheng.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -98643,7 +98597,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ximalaya.tv/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ximalayadata.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ximalayaos.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/ximeiapp.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ximeigroup.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ximendou.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ximenwai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -99327,7 +99280,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xiuqicloud.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiuren.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiushao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xiusheji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiushuang.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiushui.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xiusifudianji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -99540,7 +99492,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/xjzlyy.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xjzp.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xk57.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/xk89.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xk9l.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xkaxka.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/xkbbtang.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -101544,7 +101495,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/yangyongquan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yangyq.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yangzhe1991.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/yangzhi777.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yangzhihb.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yangzhiriji.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yangzhongchao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -102373,6 +102323,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/ygfengshui.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yggk.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yghsh.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/yghy123.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ygibao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/yginsight.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ygjctech.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -106474,7 +106425,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zbyz.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zbz.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zbzb.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zbzdm.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zbzw.la/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zc-gs100.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zc-ha.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -106716,7 +106666,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zenha.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zenhotspring.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zenith-group.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zenithmining.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zenithspace.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zenixauto.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zenkungforging.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -107184,6 +107133,7 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zhangbj.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangchangfa.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangchi.art/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
+[/zhangdkl.asia/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangdongxuan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangdu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangdu520.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -107224,7 +107174,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zhangrunnan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangsenhao.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangshangtong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zhangshengcw.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangshengrong.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangshi.org/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhangshuchang.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -107673,7 +107622,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zhidejian.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhidemai.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhidesoft.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zhidi66.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhidianfan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhidianlife.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zhidieyun.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -108679,7 +108627,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zigeer.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zigonggroup.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/ziguhonglan.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zihai0351.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zihai24.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zihaixiaochengxu.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zihexin.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
@@ -109947,7 +109894,6 @@ https://dns.cloudflare.com/dns-query tls://one.one.one.one https://dns.google/dn
 [/zqcloudgame.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zqcyzg.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zqedu.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
-[/zqfdc.net/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zqgame.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zqgjz1312.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
 [/zqgreen.com/]https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com:853 https://dns.pub/dns-query https://sm2.doh.pub/dns-query tls://dot.pub
